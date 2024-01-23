@@ -10,16 +10,21 @@ body {
 #top {
     height: 20%;
     background-color: blue;
+    line-height: 20vh;
+    vertical-align: middle;
 }
 #mid {
     height: 65%;
     width: 100%;
+    line-height: 65vh;
+    vertical-align: middle;
 }
 #center {
     width: 75%;
     height: 100%;
     float: left;
     background-color: greenyellow;
+    vertical-align: middle;
 }
 #right {
     width: 25%;
@@ -31,4 +36,6 @@ body {
     height: 15%;
     background-color: darkturquoise;
     clear: both;
+    line-height: 15vh;
+    vertical-align: middle;
 }
